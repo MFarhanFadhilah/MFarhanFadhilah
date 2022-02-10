@@ -8,8 +8,8 @@
 
 I am a graduate with a solid statistical background from Brawijaya University. I began developing a keen interest in the broad field of business and data science. My goal is to become a data analyst and keep thriving in fast-paced business environment.
 
-💬 I open to discussion, feel free to ask;
-📫 Email: farhanfadhilah2502@gmail.com;
+- 💬 I open to discussion, feel free to ask;
+- 📫 Email: farhanfadhilah2502@gmail.com;
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
