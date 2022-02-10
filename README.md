@@ -18,3 +18,4 @@ I am a graduate with a solid statistical background from Brawijaya University. I
 <code><img height="20" src="https://user-images.githubusercontent.com/83360490/116594306-34577200-a961-11eb-8c4b-5ec5f3194575.png"></code>
 
 <br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MFarhanFadhilah&show_icons=true&theme=gotham" alt="MFarhanFadhilah" />
